@@ -1,8 +1,0 @@
-BCSymbolMap Version: 2.0
--[TestViewController viewDidLoad]
--[TestViewController printLog]
--[TestViewController didReceiveMemoryWarning]
-Apple LLVM version 9.1.0 (clang-902.0.39.2)
-/Users/rajkumar/Documents/T-DemoCarthage/DemoCarthage/Lib/LibOne/LibOne/TestViewController.m
-/Users/rajkumar/Documents/T-DemoCarthage/DemoCarthage/Lib/LibOne
-/Users/rajkumar/Library/Developer/Xcode/DerivedData/LibOne-fpospkwbztrilifxxoywcbvbcgfc/Build/Intermediates.noindex/ArchiveIntermediates/LibOne/IntermediateBuildFilesPath/LibOne.build/Release-iphoneos/LibOne.build/DerivedSources/LibOne_vers.c

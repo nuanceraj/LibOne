@@ -1,6 +1,0 @@
-framework module LibOne {
-  umbrella header "LibOne.h"
-
-  export *
-  module * { export * }
-}
